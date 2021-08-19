@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning html/css
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me - fb/stanislaw.jezior
+- 📫 How to reach me - facebook/stanislaw.jezior, discord/sasan#9102
 
 <!---
 sjezior/sjezior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
